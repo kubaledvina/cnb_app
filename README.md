@@ -4,7 +4,7 @@ A project for importing exchange rates from the Czech National Bank (CNB) and vi
 
 ## Requirements
 - Python 3.11+
-- PostgreSQL 15+
+- PostgreSQL 
 - Git
 ## Project Structure
 ```
